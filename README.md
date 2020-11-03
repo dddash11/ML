@@ -1,12 +1,12 @@
 ﻿# 100-days-ML-challenge
 
-### Day 1 | Intro to Machine Learning
+### Intro to Machine Learning
 
 * What is Machine Learning?
 * Types of Machine Learning. 
 * Application of Machine Learning.
 
-### Day 2 | Essential Mathematics for Machine Learning
+### Essential Mathematics for Machine Learning
 
 * Linear Algebra.
 * Matrix and vector operations.
@@ -15,3 +15,11 @@
 * Linear system of equation, Gauss Elimination.
 * Calculus
 
+### Probability and Statistics
+
+* Measures of central tendencies
+* Descriptive and Inferential Statistics
+* Types of Data
+* Distributions
+* Normal distribution
+* Z distribution
