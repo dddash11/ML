@@ -1,12 +1,12 @@
 ﻿# 100-days-ML-challenge
 
-### Intro to Machine Learning
+## Intro to Machine Learning - Day 1
 
 * What is Machine Learning?
 * Types of Machine Learning. 
 * Application of Machine Learning.
 
-### Essential Mathematics for Machine Learning
+## Essential Mathematics for Machine Learning - Day 2
 
 * Linear Algebra.
 * Matrix and vector operations.
@@ -15,7 +15,7 @@
 * Linear system of equation, Gauss Elimination.
 * Calculus
 
-### Probability and Statistics
+## Probability and Statistics - Day 3
 
 * Measures of central tendencies
 * Descriptive and Inferential Statistics
@@ -24,7 +24,7 @@
 * Normal distribution
 * Z distribution
 
-### Probability continuation
+## Probability continuation - Day 4
 
 * Central Limit Theorem
 * Estimators
@@ -32,5 +32,21 @@
 * T-distribution
 * Hypothesis testing
 
-### Codes (Notebook)
-* [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) : Kaggle course
+## Codes (Notebook) 
+### Day 5 - [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) : Kaggle course
+* How Model works
+* Basic Model Exploration
+* Your first machine learning
+* Model Validation
+* Underfitting and Overfitting
+* Random Forests
+* Machine Learning Competition
+
+### Day 6, 7 - [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) : Kaggle course
+* Introduction
+* Missing values
+* Categorical Variables
+* Pipelines
+* Cross Validation
+* XGBoost
+* Data Leakage
