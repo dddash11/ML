@@ -66,7 +66,7 @@
 * Character Encodings
 * Inconsistent Data Entry
 
-### Day 12, 13 - [Data Analysis with Python](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+DA0101EN+2017/course/) : CognitiveClass.ai
+### Day 12, 13, 14 - [Data Analysis with Python](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+DA0101EN+2017/course/) : CognitiveClass.ai
 * Introduction
 * Data Wrangling
 * Exploratory Data Analysis
