@@ -67,8 +67,42 @@
 * Inconsistent Data Entry
 
 ### Day 12, 13, 14, 15, 16 - [Data Analysis with Python](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+DA0101EN+2017/course/) : CognitiveClass.ai
-* Introduction
-* Data Wrangling
-* Exploratory Data Analysis
-* Model Development
-* Model Evaluation
+  * #### Introduction
+     * Introduction to Data Analysis with Python 
+     * The Problem 
+     * Understanding the Data 
+     * Python Packages for Data Science 
+     * Importing and Exporting Data in Python 
+     * Getting Started Analyzing Data in Python 
+
+
+   * #### Data Wrangling
+     * Pre-processing Data in Python 
+     * Dealing with Missing Values in Python 
+     * Data Formatting in Python 
+     * Data Normalization in Python 
+     * Binning in Python 
+     * Turning categorical into quantitative variables 
+
+   * #### Exploratory Data Analysis
+     * Exploratory Data Analysis 
+     * Descriptive Statistics 
+     * GroupBy in Python 
+     * Analysis of Variance (ANOVA) 
+     * Correlation 
+     * Correlation Statistics 
+
+   * #### Model Development
+     * Introduction
+     * Simple and Multiple Linear Regression 
+     * Model Evaluation using Visualization 
+     * Polynomial Regression and Pipelines 
+     * Measures for In-Sample Evaluation 
+     * Prediction and Decision Making 
+
+   * #### Model Evaluation:
+     * Model Evaluation and Refinement 
+     * Model Evaluation 
+     * Overfitting, Underfitting and Model Selection 
+     * Ridge Regression
+     * Grid Search
