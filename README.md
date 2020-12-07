@@ -106,3 +106,67 @@
      * Overfitting, Underfitting and Model Selection 
      * Ridge Regression
      * Grid Search
+
+### Day 16-17 | Data Visualization from Kaggle
+
+* Hello, Seaborn
+* Line Charts
+* Bar Charts and Heatmaps
+* Scatter Plots
+* Distributions
+* Choosing Plot Types and Custom Styles
+* Final Project
+
+### Day 18-21 | Data Visualization with Python from cognitiveclass.ai
+
+* #### Introduction to Visualization Tools
+
+  * Introduction to Data Visualization
+  * Introduction to Matplotlib 
+  * Basic Plotting with Matplotlib 
+  * Dataset on Immigration to Canada
+  * Line Plots 
+
+* #### Basic Visualization Tools
+ 
+  * Area Plots 
+  * Histograms 
+  * Bar Charts 
+
+* #### Specialized Visualization Tools
+  * Pie Charts 
+  * Box Plots 
+  * Scatter Plots 
+
+* #### Advanced Visualization Tools
+
+  * Waffle Charts 
+  * Word Clouds 
+  * Seaborn and Regression Plots 
+
+* #### Creating Maps and Visualizing Geospatial Data
+ 
+  * Introduction to Folium 
+  * Maps with Markers  
+  * Choropleth Maps 
+  
+### Day 21-23 | Exploratory Data Analysis
+  * Titanic Dataset
+  * Terrorism Datset
+
+### Day 24-30 | Machine Learning from cognitiveclass.ai
+
+  * #### Module 1 - Machine Learning
+
+    * Intro to Machine Learning 
+    * Python for Machine Learning 
+    * Supervised vs Unsupervised 
+        
+  * #### Module 2 - Regression
+
+    * Intro to Regression 
+    * Simple Linear Regression 
+    * Multiple Linear Regression 
+    * Model Evaluation 
+    * Evaluation Metrics 
+    * Non-Linear Regression 
